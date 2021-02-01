@@ -4,7 +4,7 @@ In this sentiment analysis problem our task is to classify a set of tweet into t
         --> racist/sexist
         --> non racist/sexist
         
-Sentiment analysis is one of the many applications od Natural Language Processing. It is a set of methods and techniques used for extractinf subjective information from text or speech.
+Sentiment analysis is one of the many applications od Natural Language Processing. It is a set of methods and techniques used for extracting subjective information from text or speech.
 
 Modules:
 
