@@ -1,7 +1,9 @@
 # TwitterSentimentAnalysis-
 In this sentiment analysis problem our task is to classify a set of tweet into two categories
+
         --> racist/sexist
         --> non racist/sexist
+        
 Sentiment analysis is one of the many applications od Natural Language Processing. It is a set of methids nd techniques used for extractinf subjective information from text or speech.
 
 Modules:
