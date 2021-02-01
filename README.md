@@ -1,4 +1,4 @@
-# TwitterSentimentAnalysis-
+# TwitterSentimentAnalysis
 In this sentiment analysis problem our task is to classify a set of tweet into two categories
 
         --> racist/sexist
